@@ -6,6 +6,7 @@
         {
           "extensions": [".svg"]
         }
-      ]
+      ],
+      "babel-plugin-styled-components"
     ]
   }
