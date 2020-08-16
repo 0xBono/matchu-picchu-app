@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "restaurant_app.app"
+               BuildableName = "MatchuPicchu.app"
                BlueprintName = "restaurant_app"
                ReferencedContainer = "container:restaurant_app.xcodeproj">
             </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "restaurant_app.app"
+            BuildableName = "MatchuPicchu.app"
             BlueprintName = "restaurant_app"
             ReferencedContainer = "container:restaurant_app.xcodeproj">
          </BuildableReference>
@@ -72,7 +72,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "restaurant_app.app"
+            BuildableName = "MatchuPicchu.app"
             BlueprintName = "restaurant_app"
             ReferencedContainer = "container:restaurant_app.xcodeproj">
          </BuildableReference>
