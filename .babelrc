@@ -7,6 +7,18 @@
           "extensions": [".svg"]
         }
       ],
-      "babel-plugin-styled-components"
+      "babel-plugin-styled-components",
+      [
+        "module-resolver", {
+          "root": ["./src"],
+          "alias": {
+            "components": "./src/components",
+            "utils": "./src/common/utils",
+            "constant": "./src/common/constant",
+            "assets": "./src/assets",
+            "screens": "./src/screens"
+          }
+        }
+      ]
     ]
   }
